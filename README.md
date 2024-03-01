@@ -1,6 +1,6 @@
 # MERN Stack Blog Application
 
-Welcome to the MERN Stack Blog Application! This full-stack web application allows users to register, log in, create and edit posts, view all posts on the main page, comment on posts, and manage their account details. The application is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+Welcome to the MERN Stack Airbnb clone App! This full-stack web application allows users to register, log in, create and edit places, view all the places on the main page, Update their places, and manage their account details. The application is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack and TailWind css.
 
 ## Table of Contents
 
