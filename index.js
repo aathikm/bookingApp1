@@ -42,8 +42,7 @@ app.use('/uploads/', express.static(__dirname+"/uploads/"))
 app.use(cors({
     credentials: true,
     origin: "http://localhost:3000",
-    optionSuccessStatus:200,
-    methods: ['GET', 'POST', 'PUT', 'DELETE']
+    optionSuccessStatus:200
 }))
 
 const port = 4000;
